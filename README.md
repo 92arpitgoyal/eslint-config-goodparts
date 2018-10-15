@@ -13,5 +13,9 @@ Shareable Config with which you can extend in current ESLint to follow goodparts
 ## *How?*
 
 After this is published to public `npm`.
-	# you will need to `npm install --save eslint-config-goodparts`.
-	# you can then extend `.eslintrc` file with `goodparts` to use it.
+
+you will need to first:
+
+```$ npm install --save eslint-config-goodparts```
+
+you can then extend `.eslintrc` file with `goodparts` to use it.
