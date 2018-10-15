@@ -16,6 +16,16 @@ After this is published to public `npm`.
 
 you will need to first:
 
-```$ npm install --save eslint-config-goodparts```
+```
+$ npm install eslint-config-goodparts --save
+```
 
-you can then extend `.eslintrc` file with `goodparts` to use it.
+you can then extend `.eslintrc` file with `goodparts` to use it, like:
+
+```
+{
+  "extends": [
+    "goodparts"
+  ]
+}
+```
