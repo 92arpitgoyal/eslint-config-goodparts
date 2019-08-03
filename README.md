@@ -3,7 +3,7 @@ An ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-co
 
 ## *Why?*
 
-Using JavaScript "The Good Parts" (abreviated to "goodparts") is the best way we know 
+Using JavaScript "The Good Parts" (abbreviated to "goodparts") is the best way we know 
 how to write simple, consistent, predictable and 100% cross-browser-compatible JavaScript code.
 
 ## *What?*
